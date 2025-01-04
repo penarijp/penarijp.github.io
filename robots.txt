@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://penarijp.github.io/sitemap.xml
